@@ -1,0 +1,8 @@
+# Enable auto-env through the sdkman_auto_env config
+# or run this in the shell: 'sdk env'
+
+# Add key=value pairs of SDKs to use below
+java=11.0.2-open
+maven=3.6.3
+gradle=6.2.1
+
